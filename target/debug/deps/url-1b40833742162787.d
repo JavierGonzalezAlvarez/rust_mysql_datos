@@ -1,0 +1,13 @@
+/home/javier/Desktop/api/mysql/mysqlapi/target/debug/deps/url-1b40833742162787.rmeta: /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/home/javier/Desktop/api/mysql/mysqlapi/target/debug/deps/liburl-1b40833742162787.rlib: /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/home/javier/Desktop/api/mysql/mysqlapi/target/debug/deps/url-1b40833742162787.d: /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs /home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs
+
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/lib.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/host.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/origin.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/parser.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/path_segments.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/slicing.rs:
+/home/javier/.cargo/registry/src/github.com-1ecc6299db9ec823/url-2.2.0/src/quirks.rs:
